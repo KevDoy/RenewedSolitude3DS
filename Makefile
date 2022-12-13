@@ -26,20 +26,21 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-TARGET		:=	Revamped
+TARGET		:=	RenewedSolitude
 BUILD		:=	build
 SOURCES		:=	source
-APP_AUTHOR := MasterFeizz-Flaming Ice-TCPixel
-APP_TITLE := Halo Revamped
-APP_DESCRIPTION := Halo Style Quake Mod
+APP_AUTHOR := MasterFeizz-Flaming Ice-TCPixel-KevDoy
+APP_TITLE := Halo Renewed Solitude
+APP_DESCRIPTION := Halo for 3DS using Quake Engine
 
 #NO_SMDH		:=	nope
 DATA		:=	data
 INCLUDES	:=	include
 
+#VERSION - Make sure quakedef.h version matches
 VERSION_MAJOR := 1
-VERSION_MINOR := 1
-VERSION_MICRO := 1
+VERSION_MINOR := 2
+VERSION_MICRO := 0
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------

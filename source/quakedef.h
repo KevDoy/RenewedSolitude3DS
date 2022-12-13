@@ -23,7 +23,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 #define	QUAKE_GAME			// as opposed to utilities
 
-#define	VERSION				1.11
+#define	VERSION				1.20
 #define	GLQUAKE_VERSION		1.00
 #define	D3DQUAKE_VERSION	0.01
 #define	WINQUAKE_VERSION	0.996
@@ -33,9 +33,9 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 //define	PARANOID			// speed sapping error checking
 
 #ifdef QUAKE2
-#define	GAMENAME	"Rev"		// directory to look in by default
+#define	GAMENAME	"halo3ds"		// directory to look in by default
 #else
-#define	GAMENAME	"Rev"
+#define	GAMENAME	"halo3ds"
 #endif
 
 #include <math.h>
