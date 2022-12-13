@@ -1,16 +1,16 @@
 # This is created by TCPixel
-I am only mirroring it, along with a few modifications, such as O3DS support
+TCPixel created Halo Revamped, this is a fork to create some improvements 
 
-# Halo Revamped 3DS
-Halo Revamped is a Halo Style Quake Mod using ctrQuake  
+# Halo Renewed Solitude 3DS
+Halo Renewed Solitude is a Halo Style Quake Mod using ctrQuake  
 ctrQuake is a free, unofficial port of Quake for the Nintendo 3DS.  
 
 ## Installation guide
 - Follow the guide for running homebrew at [http://smealum.github.io/3ds/](http://smealum.github.io/3ds/)
-- Download the latest `Revamped.zip` from the [releases page](https://github.com/CollinScripter/Revamped3DS/releases)
-- Extract `Revamped.zip` to the root of your SD card
-- Install `Revamped.cia` using [FBI](https://github.com/Steveice10/FBI/releases)
-- Launch Halo Revamped from the Home Menu
+- Download the latest `RenewedSolitude.zip` from the [releases page](https://github.com/KevDoy/RenewedSolitude3DS/releases)
+- Extract `RenewedSolitude.zip` to the root of your SD card
+- Install `RenewedSolitude.cia` using [FBI](https://github.com/Steveice10/FBI/releases)
+- Launch Halo Renewed Solitude from the Home Menu
 
 <!--
 ## Default keybinds
@@ -29,6 +29,8 @@ ctrQuake is a free, unofficial port of Quake for the Nintendo 3DS.
 - [x] Better sound processing ( Thanks to Rinnegatamante )
 -->
 ## Credits
+KevDoy - Halo Renewed Solitude 3DS Mod
+CollinScripter - Halo Revamped Mod Improvements
 Tevin Dahl (TCPixel) - Halo Revamped Mod  
 Flaming Ice - Halo Solitude  
 Felipe Izzo (MasterFeizz) - ctrQuake developer  
@@ -36,4 +38,5 @@ Rinnegatamante - Sound enhancements
 ## Thanks to
 Id Software - Source code of Quake  
 Smealum and other developers of libctru  
-TuxSH, J-D-K, PabloMK7  
+TuxSH, J-D-K, PabloMK7
+mattthw - SolitudeVita
