@@ -308,9 +308,9 @@ void M_Main_Draw (void)
 	int offset = 110;
 	char ver[9]; 
 
-	//M_DrawTransPic (16, 4, Draw_CachePic ("gfx/qplaque.lmp") );
-	//p = Draw_CachePic ("gfx/ttl_main.lmp");
-	//M_DrawTransPic ( (320-p->width)/2, 4, p);
+	M_DrawTransPic (16, 4, Draw_CachePic ("gfx/qplaque.lmp") );
+	p = Draw_CachePic ("gfx/ttl_main.lmp");
+	M_DrawTransPic ( (320-p->width)/2, 4, p);
 	
 	sprintf(ver, "Ver %g", VERSION);
 	M_Print (-25, 5, ver);
