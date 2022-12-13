@@ -1678,70 +1678,60 @@ qboolean	wasInMenus;
 char *quitMessage [] =
 {
 /* .........1.........2.... */
-  "  Are you gonna quit    ",
-  "  this game just like   ",
-  "   everything else?     ",
-  "                        ",
+  "Quick question, have you",  
+  "wandered off to go look ",
+  " for the enemy and NOT  ",
+  "ended up dead?? Press A ",
 
-  " Milord, methinks that  ",
-  "   thou art a lowly     ",
-  " quitter. Is this true? ",
-  "                        ",
+  "  We have to stop the  ",
+  "  DEMON, Master Chief! ",
+  "                       ",
+  "    Press A to quit    ",
 
-  " Do I need to bust your ",
-  "  face open for trying  ",
-  "        to quit?        ",
-  "                        ",
+  "     Thought I'd Try    ",
+  "   Shooting My Way Out  ",
+  "Mix Things Up A Little. ",
+  "    Press A to quit     ",
 
   #ifdef _3DS
 
-  "        At least		   ",
-  "     go watch some      ",
-  "     TCPixel videos     ",
-  "        instead!        ",
+  "Quick question, have you",  
+  "wandered off to go look ",
+  " for the enemy and NOT  ",
+  "ended up dead?? Press A ",
 
-  " Press A to quit like a ",
-  "   big loser in life.   ",
-  "  Press B to stay proud ",
-  "    and successful!     ",
+  "  We have to stop the  ",
+  "  DEMON, Master Chief! ",
+  "                       ",
+  "    Press A to quit    ",
 
-  "   If you press A to    ",
-  "  quit, I will summon   ",
-  "  Satan all over your   ",
-  "      hard drive!       ",
-
-  "  Um, Asmodeus dislikes ",
-  " his children trying to ",
-  " quit. Press A to return",
-  "   to your Tinkertoys.  ",
+  "     Thought I'd Try    ",
+  "   Shooting My Way Out  ",
+  "Mix Things Up A Little. ",
+  "    Press A to quit     ",
 
   #else
 
-  " Man, I oughta smack you",
-  "   for trying to quit!  ",
-  "     Press Y to get     ",
-  "      smacked out.      ",
+    "Quick question, have you",  
+  "wandered off to go look ",
+  " for the enemy and NOT  ",
+  "ended up dead?? Press A ",
 
-  " Press Y to quit like a ",
-  "   big loser in life.   ",
-  "  Press N to stay proud ",
-  "    and successful!     ",
+  "  We have to stop the  ",
+  "  DEMON, Master Chief! ",
+  "                       ",
+  "    Press A to quit    ",
 
-  "   If you press Y to    ",
-  "  quit, I will summon   ",
-  "  Satan all over your   ",
-  "      hard drive!       ",
-
-  "  Um, Asmodeus dislikes ",
-  " his children trying to ",
-  " quit. Press Y to return",
-  "   to your Tinkertoys.  ",
+  "     Thought I'd Try    ",
+  "   Shooting My Way Out  ",
+  "Mix Things Up A Little. ",
+  "    Press A to quit     ",
 
   #endif
 
   "  If you quit now, I'll ",
-  "  throw a blanket-party ",
-  "   for you next time!   ",
+  "  you'll come back to   ",
+  "   a Covenant victory   ",
   "                        "
 };
 #endif
