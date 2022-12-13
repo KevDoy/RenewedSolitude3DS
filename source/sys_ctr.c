@@ -344,8 +344,8 @@ int main (int argc, char **argv)
 	acInit();
 
 	#ifdef _3DS_CIA
-		if(chdir("sdmc:/3ds/Revamped") != 0)
-			Sys_Error("Could not find folder: sdmc:/3ds/Revamped");
+		if(chdir("sdmc:/3ds/RenewedSolitude") != 0)
+			Sys_Error("Could not find folder: sdmc:/3ds/RenewedSolitude");
 	#endif
 
 	static quakeparms_t    parms;
