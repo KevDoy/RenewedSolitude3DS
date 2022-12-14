@@ -1,5 +1,5 @@
-# This is created by TCPixel
-TCPixel created Halo Revamped, this is a fork to create some improvements 
+# Updated and Renewed
+Renewed Solitude is an updated version of TCPixel's Halo Revamped for 3DS.
 
 # Halo Renewed Solitude 3DS
 Halo Renewed Solitude is a Halo Style Quake Mod using ctrQuake  
