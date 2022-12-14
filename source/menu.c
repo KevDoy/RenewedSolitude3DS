@@ -1416,7 +1416,7 @@ char *bindnames[][2] =
 {"impulse 27", 		"Change Grenade"},
 {"impulse 28", 		"Throw Grenade"},
 {"impulse 29", 		"Melee"},
-{"impulse 39", 		"Zoom"},
+{"impulse 11", 		"Zoom"},
 {"+back", 			"backpedal"},
 {"+left", 			"turn left"},
 {"+right", 			"turn right"},
