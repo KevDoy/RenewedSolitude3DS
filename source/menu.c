@@ -1729,7 +1729,7 @@ char *quitMessage [] =
 
   #endif
 
-  "  If you quit now, I'll ",
+  "    If you quit now,   ",
   "  you'll come back to   ",
   "   a Covenant victory   ",
   "                        "
