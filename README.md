@@ -7,8 +7,9 @@ ctrQuake is a free, unofficial port of Quake for the Nintendo 3DS.
 
 ## Installation guide
 - Follow the guide for running homebrew at [http://smealum.github.io/3ds/](http://smealum.github.io/3ds/)
-- Download the latest `RenewedSolitude.zip` from the [releases page](https://github.com/KevDoy/RenewedSolitude3DS/releases)
-- Extract `RenewedSolitude.zip` to the root of your SD card
+- Download the latest `RenewedSolitude.zip` and `RenewedSolitude.cia` from the [releases page](https://github.com/KevDoy/RenewedSolitude3DS/releases)
+- Extract `RenewedSolitude.zip`
+- Move "RenewedSolitude" folder into 3DS folder on your SD card
 - Install `RenewedSolitude.cia` using [FBI](https://github.com/Steveice10/FBI/releases)
 - Launch Halo Renewed Solitude from the Home Menu
 
