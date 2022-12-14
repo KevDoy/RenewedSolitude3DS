@@ -721,7 +721,7 @@ int		setup_oldbottom;
 int		setup_top;
 int		setup_bottom;
 
-#define	NUM_SETUP_CMDS	3
+#define	NUM_SETUP_CMDS	5
 
 void M_Menu_Setup_f (void)
 {
