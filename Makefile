@@ -40,7 +40,7 @@ INCLUDES	:=	include
 #VERSION - Make sure quakedef.h version matches
 VERSION_MAJOR := 1
 VERSION_MINOR := 2
-VERSION_MICRO := 0
+VERSION_MICRO := 1
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
