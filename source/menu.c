@@ -751,8 +751,8 @@ void M_Setup_Draw (void)
 	M_DrawTextBox (160, 48, 16, 1);
 	M_Print (168, 56, setup_myname);
 
-	M_Print (64, 80, "Main Color");
-	M_Print (64, 104, "Secondary Color");
+	M_Print (64, 80, "Player Color");
+	M_Print (64, 104, "Visor Color");
 
 	M_DrawTextBox (64, 140-8, 14, 1);
 	M_Print (72, 140, "Accept Changes");
