@@ -1,4 +1,34 @@
 # Updated and Renewed
+#
+#
+#
+#
+#
+#
+#
+#
+For current version please go to https://github.com/ArcadeJumpers/RenewedSolitude3DS
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
 Renewed Solitude is an updated version of TCPixel's Halo Revamped for 3DS.
 
 ![Preview](https://kevdoy.com/projectscreenshots/halo-promo-old-and-new.jpg)
